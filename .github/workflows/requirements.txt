@@ -22,7 +22,7 @@ cryptography==44.0.1
 cycler==0.12.1
 cymem==2.0.10
 discord.py==2.4.0
-exchange_calendars==4.5.4
+# exchange_calendars==4.5.4  <-- REMOVED
 Farama-Notifications==0.0.4
 filelock==3.16.1
 Flask==3.0.3
