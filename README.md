@@ -38,11 +38,9 @@ This project is a web application for managing user profiles.
    ```sh
     python main.py
    
-![image](https://github.com/user-attachments/assets/a480c20e-dfd7-456d-a69f-1209d147df2d)
-
-
 7. **Open in your web browser:**
 
     After running "python main.py" in your command terminal...
 
     Click on the hyperlink: http://127.0.0.1:5000
+![image](https://github.com/user-attachments/assets/a480c20e-dfd7-456d-a69f-1209d147df2d)
